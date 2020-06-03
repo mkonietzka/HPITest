@@ -6,6 +6,7 @@ public class SecondMain {
         Random rnd = new Random();
         boolean rnd1 = rnd.nextBoolean();
         System.out.println("Is it " + rnd1 + " or " + !rnd1 + "?");
+        System.out.println("Stuff for the second Commit");
 
 
     }
