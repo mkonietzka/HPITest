@@ -8,6 +8,8 @@ public class SecondMain {
         System.out.println("Is it " + rnd1 + " or " + !rnd1 + "?");
         System.out.println("Stuff for the second Commit");
 
+        //Somthinhg
+
 
 
     }
